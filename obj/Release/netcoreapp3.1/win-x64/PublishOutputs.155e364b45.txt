@@ -1,0 +1,17 @@
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Saveari_WebAPI.exe
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\NLog.config
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Saveari_WebAPI.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Saveari_WebAPI.deps.json
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Saveari_WebAPI.runtimeconfig.json
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Saveari_WebAPI.pdb
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\NLog.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\NLog.Extensions.Logging.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\NLog.Web.AspNetCore.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Safee Sheikh\source\repos\Saveari_WebAPI\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\sni.dll
